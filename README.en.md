@@ -170,7 +170,7 @@ kubectl apply -f k8s-production/
 - **Airflow**: http://localhost:8080 (Pipeline orchestration)
 - **MinIO Console**: http://localhost:9001 (Artifact storage)
 
-**Default Credentials**: admin/admin (change in production)
+**Default Credentials**: admin/admin123 (change in production)
 
 **🌐 Live Demo**: [http://158.160.187.18/](http://158.160.187.18/)
 
@@ -536,22 +536,6 @@ sequenceDiagram
 - Detailed health reports with component-level status
 
 ---
-
-## 💬 Success Stories
-
-<!-- TODO: Add real testimonials -->
-
-> **"We reduced our ETL development time from 2 weeks to 30 seconds. Game changer for our data team."**
->
-> — *Data Engineering Lead at [Company Name]*
-
-> **"AI ETL Assistant generated production-ready code that passed all our quality checks on first try. Incredible."**
->
-> — *Senior Data Engineer at [Company Name]*
-
-> **"The natural language interface means our analysts can create pipelines without bothering engineers. Huge productivity boost."**
->
-> — *CTO at [Company Name]*
 
 <div align="center">
 
