@@ -95,7 +95,7 @@ You: "Load sales data from PostgreSQL to ClickHouse daily at 2 AM"
 
 ### 🌐 [Try Live Demo](http://158.160.187.18/) • 📊 [View Presentation](https://disk.yandex.ru/d/rlkeEFp_TPAmCQ)
 
-**Live Demo**: Experience AI ETL Assistant in action at [158.160.187.18](http://158.160.187.18/)
+**Live Demo**: Experience AI ETL Assistant in action at [158.160.187.18](http://158.160.187.18/) (admin/admin123)
 
 **Presentation**: Comprehensive overview with architecture, features, and use cases on [Yandex.Disk](https://disk.yandex.ru/d/rlkeEFp_TPAmCQ)
 
@@ -541,7 +541,7 @@ sequenceDiagram
 
 **Experience the future of ETL automation**
 
-[🌐 Try Live Demo](http://158.160.187.18/) | [📊 View Presentation](https://disk.yandex.ru/d/rlkeEFp_TPAmCQ) | [📚 Read Docs](https://github.com/Sergey-1221/ai-etl-docs)
+[🌐 Try Live Demo](http://158.160.187.18/) (admin/admin123) | [📊 View Presentation](https://disk.yandex.ru/d/rlkeEFp_TPAmCQ) | [📚 Read Docs](https://github.com/Sergey-1221/ai-etl-docs)
 
 </div>
 
@@ -671,7 +671,7 @@ We ❤️ contributions!
 
 - 🐛 **Bug Reports**: [Report issues at SourceCraft](https://sourcecraft.dev/noise1983/ai-etl)
 - 📚 **Documentation**: [Complete docs on GitHub](https://github.com/Sergey-1221/ai-etl-docs)
-- 🌐 **Live Demo**: [Try the demo](http://158.160.187.18/)
+- 🌐 **Live Demo**: [Try the demo](http://158.160.187.18/) (admin/admin123)
 - 📊 **Presentation**: [View presentation](https://disk.yandex.ru/d/rlkeEFp_TPAmCQ)
 
 </div>
@@ -740,7 +740,7 @@ Built with love using these amazing open-source projects:
 
 | Resource | Link |
 |:--------:|:----:|
-| 🌐 **Live Demo** | [http://158.160.187.18/](http://158.160.187.18/) |
+| 🌐 **Live Demo** | [http://158.160.187.18/](http://158.160.187.18/) (admin/admin123) |
 | 📊 **Presentation** | [Yandex.Disk](https://disk.yandex.ru/d/rlkeEFp_TPAmCQ) |
 | 📚 **Documentation** | [GitHub Docs](https://github.com/Sergey-1221/ai-etl-docs) |
 | 💻 **Repository** | [SourceCraft](https://sourcecraft.dev/noise1983/ai-etl) |
