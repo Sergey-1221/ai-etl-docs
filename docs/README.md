@@ -1,5 +1,7 @@
 # 📚 AI ETL Assistant Documentation
 
+**English | [Русский](README.ru.md)**
+
 Welcome to the comprehensive documentation for AI ETL Assistant - your AI-powered data pipeline automation platform.
 
 ## 📖 Documentation Structure
@@ -24,13 +26,26 @@ Welcome to the comprehensive documentation for AI ETL Assistant - your AI-powere
 - **[Contributing](./development/contributing.md)** - How to contribute
 
 ### 🔌 API Reference
+
+#### Core APIs
 - **[REST API](./api/rest-api.md)** - Complete REST API documentation
 - **[Pipeline API](./api/pipelines.md)** - Pipeline management endpoints
 - **[Connector API](./api/connectors.md)** - Connector configuration
 - **[Authentication](./api/authentication.md)** - Auth flows and security
 - **[WebSocket Events](./api/websockets.md)** - Real-time events
 
+#### AI Enhancement APIs (New!)
+- **[Vector Search API](./api/vector-search.md)** - Semantic search and deduplication
+- **[Drift Monitoring API](./api/drift-monitoring.md)** - ML drift detection and alerts
+- **[Feast Features API](./api/feast-features.md)** - Feature store for ML
+- **[MVP Features API](./api/mvp-features.md)** - Storage monitoring, datamarts, triggers
+- **[Admin Operations API](./api/admin-operations.md)** - System administration
+
+#### Reference
+- **[Error Codes](./api/error-codes.md)** - Complete error code reference
+
 ### 🚢 Deployment
+- **[🔥 Production Checklist](./deployment/production-checklist.md)** - Complete pre-deployment checklist (New!)
 - **[Docker Deployment](./deployment/docker.md)** - Deploy with Docker
 - **[Kubernetes Guide](./deployment/kubernetes.md)** - Production K8s deployment
 - **[Cloud Deployment](./deployment/cloud.md)** - AWS, Azure, GCP, Yandex Cloud
@@ -90,9 +105,19 @@ Welcome to the comprehensive documentation for AI ETL Assistant - your AI-powere
 |---------|--------|--------------|
 | Getting Started | ✅ Complete | 2024-01-26 |
 | Architecture | ✅ Complete | 2024-01-26 |
-| API Reference | 🚧 In Progress | 2024-01-26 |
-| Deployment | ✅ Complete | 2024-01-26 |
+| **API Reference** | ✅ **Complete** | **2024-06-30** |
+| **AI Enhancement APIs** | ✅ **Complete** | **2024-06-30** |
+| Deployment | ✅ Complete | 2024-06-30 |
+| Production Checklist | ✅ Complete | 2024-06-30 |
+| Error Codes Reference | ✅ Complete | 2024-06-30 |
 | Troubleshooting | 📝 Draft | 2024-01-26 |
+
+### 🆕 Recent Updates (June 30, 2024)
+
+- ✨ **New API Documentation**: Vector Search, Drift Monitoring, Feast Features, MVP Features, Admin Operations
+- ✅ **Production Checklist**: Comprehensive pre-deployment guide with 100+ checkpoints
+- 📚 **Error Codes Reference**: Complete error code catalog with examples and solutions
+- 🔧 **AI Enhancements**: Full documentation for vector search, drift detection, and feature store
 
 ## 🤝 Contributing to Documentation
 
